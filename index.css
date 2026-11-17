@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#conteudoprincipal {
+    max-width: 300px;
+    border-color: aliceblue;
+    border-radius: 8px;
+}
+
+
+
